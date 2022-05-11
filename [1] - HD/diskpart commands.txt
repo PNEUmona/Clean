@@ -1,0 +1,11 @@
+[1] - Code Block
+[2] - list disk
+[3] - Select disk <x>
+[4] - list volume 
+[5] - Select volume <x>
+[6] - Clean
+[7] - Create partition primary
+[8] - Format fs=ntfs label="Disco_Local" quick
+[9] -  Assign letter C
+[10] - Active
+[11] - Exit
